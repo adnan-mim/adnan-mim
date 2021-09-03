@@ -4,7 +4,7 @@
 
 || MREN stack devloper ||
 
-|| Networking & Cyber Security Analyst || 
+|| || 
 
 Skills: MongoDB, Express, React, Node , Python, Django, DRF, JavaScript,  MySQL, PostgreSQL, Git, Linux
 
