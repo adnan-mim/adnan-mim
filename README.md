@@ -1,4 +1,4 @@
-### Hi  my name is adnan mim 
+### Hi i  am adnan mim 
 #### I am MREN stack devloper
 ![I am MREN stack devloper](https://res.cloudinary.com/practicaldev/image/fetch/s--0FRJGdyZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg)
 
